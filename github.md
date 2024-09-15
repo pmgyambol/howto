@@ -7,10 +7,15 @@
 
 2. [Add the key to the GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).
 
+   * Add the key locally to the ssh-agent
+
    ```shell
    eval "$(ssh-agent -s)"
    ssh-add ~/.ssh/[KEY_FILENAME]
-   more ~/.ssh/[KEY_FILENAME].pub   # Paste the content in 
    ```
 
-   
+   * [Add the key to the Github account](https://github.com/settings/keys): Icon > > Dropdown menu > Settings > SSH and GPG keys and paste the content of:
+
+   ```shell
+   more ~/.ssh/[KEY_FILENAME].pub   # Paste the content in 
+   ```
