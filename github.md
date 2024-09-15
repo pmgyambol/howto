@@ -30,7 +30,7 @@
 
 ## Multiple accounts
 
-1. Follow the above steps and create two accounts: aone & atwo
+1. Follow the above steps and create two accounts: one & two
 
 2. Create ~/.ssh/config:
 
