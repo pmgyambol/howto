@@ -14,8 +14,15 @@
    ssh-add ~/.ssh/[KEY_FILENAME]
    ```
 
-   * [Add the key to the Github account](https://github.com/settings/keys): Icon > > Dropdown menu > Settings > SSH and GPG keys and paste the content of:
+   * [Add the key to the Github account](https://github.com/settings/keys): Icon > Dropdown menu > Settings > SSH and GPG keys and paste the content of:
 
    ```shell
-   more ~/.ssh/[KEY_FILENAME].pub   # Paste the content in 
+   more ~/.ssh/[KEY_FILENAME].pub
+   ```
+
+3. Troubleshoot
+
+   ```shell
+   more ~/.ssh/config
+   git config -l
    ```
