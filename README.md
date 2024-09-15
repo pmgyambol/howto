@@ -1,1 +1,3 @@
-# howto
+# Howto
+
+* [GitHub Issues](github.md)
