@@ -21,8 +21,9 @@
    more ~/.ssh/[KEY_FILENAME].pub
    ```
 
-3. Troubleshoot
+3. Test / Troubleshoot
 
    ```shell
+   ssh -T git@github.com
    more ~/.ssh/config
    git config -l
