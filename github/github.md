@@ -4,6 +4,9 @@
 
 1. [Pull options](pull.md)
 
+1. [Commits](commits.md)
+
+1. [Collaborate](collaborate.md)
+
 1. [Clean](clean.md)
 
-1. [Commits](commits.md)

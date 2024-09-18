@@ -7,7 +7,7 @@ Sometimes we need to revert file/directory to its previous commit
 
 2. Find the Commit ID (``git log``)
 
-3. Execute:
+3. The command below will overwrite the current file state with the one from the [commit id]:
 
    ```shell
    git checkout [commit ID] -- path/to/file
