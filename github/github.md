@@ -1,3 +1,3 @@
-1. [Single account](single)
+1. [Single account](single.md)
 
-2. [Multiple accounts](multiple)
+2. [Multiple accounts](multiple.md)
