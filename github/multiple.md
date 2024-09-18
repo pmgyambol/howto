@@ -1,6 +1,6 @@
 ## Multiple accounts
 
-1. Follow the above steps in [single account](single) and create two accounts: one & two
+1. Follow the above steps in [single account](single.md) and create two accounts: one & two
 
 2. Create ~/.ssh/config:
 
