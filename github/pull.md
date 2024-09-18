@@ -12,6 +12,6 @@ git status -uno
 git show-branch *master
 ```
 
-* [How to check for changes on remote (origin) Git repository](https://stackoverflow.com/questions/2514270/how-to-check-for-changes-on-remote-origin-git-repository)
+1. [How to check for changes on remote (origin) Git repository](https://stackoverflow.com/questions/2514270/how-to-check-for-changes-on-remote-origin-git-repository)
 
-* [How to "git pull" from master into the development branch](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
+1. [How to "git pull" from master into the development branch](https://stackoverflow.com/questions/20101994/how-to-git-pull-from-master-into-the-development-branch)
